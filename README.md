@@ -2,4 +2,4 @@ Node backend for the UniBlox demo - https://github.com/neustackapp/assignment/bl
 
 commands -  
 npm install  
-npm run start  
+node index.js  
